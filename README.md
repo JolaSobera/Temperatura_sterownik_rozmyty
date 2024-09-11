@@ -27,9 +27,11 @@ Stopnie odpalenia reguł
 ![image](https://github.com/user-attachments/assets/377ec834-307b-4f31-96d3-2b49e92234ef)
 
 Wynik w przestrzeni klimatyzator:
+
 ![image](https://github.com/user-attachments/assets/bb3a0574-ccbd-4af8-a28c-b5518e5126a8)
 
 Wyostrzenie
+
 ![image](https://github.com/user-attachments/assets/74eb2e27-2fc6-42f3-96ed-80879ecaed98)
 
 

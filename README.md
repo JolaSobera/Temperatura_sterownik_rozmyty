@@ -19,4 +19,19 @@ Wykresy zbiorów rozmytych dla klimatyzatora
 
 ![image](https://github.com/user-attachments/assets/bbaa7b52-b5ed-4c5d-8b05-4e3c3ad1493f)
 
+Baza reguł
+
+![image](https://github.com/user-attachments/assets/46a476fa-828f-4263-882c-36a54e0765bd)
+
+Stopnie odpalenia reguł
+![image](https://github.com/user-attachments/assets/377ec834-307b-4f31-96d3-2b49e92234ef)
+
+Wynik w przestrzeni klimatyzator:
+![image](https://github.com/user-attachments/assets/bb3a0574-ccbd-4af8-a28c-b5518e5126a8)
+
+Wyostrzenie
+![image](https://github.com/user-attachments/assets/74eb2e27-2fc6-42f3-96ed-80879ecaed98)
+
+
+
 
